@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ie.CameraStorage.Barcza"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ie.CameraStorage.Barcza"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ie.CameraStorage.Barcza"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ie.CameraStorage.Barcza"
+        }
+    },
+    "dependent_plugins": {}
+}

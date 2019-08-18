@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "ie.FileSystem.Camera"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "ie.FileSystem.Camera"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "ie.FileSystem.Camera"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "ie.FileSystem.Camera"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "ie.FileSystem.Camera"
+    }
+  }
+}
